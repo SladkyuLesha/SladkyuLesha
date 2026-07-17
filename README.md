@@ -1,4 +1,4 @@
-<h3 align="center">$SladkyuLesha$</h3>
+<h1 align="center">$SladkyuLesha$</h1>
 
 
 <h1 align="center">Привет, я Алексей 👋</h1>
