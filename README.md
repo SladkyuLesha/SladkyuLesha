@@ -1,4 +1,4 @@
-<h1 align="center">$SladkyuLesha$</h1>
+<h1 align="center">🐍 S$ladkyuLesha$$ · Developer & Data Enthusiast 🐍</h1>
 
 
 <h1 align="center">Привет, я Алексей 👋</h1>
@@ -19,16 +19,28 @@
   />
 </p>
 
-
-<h3 align="center">📊 GitHub-статистика</h3>
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SladkyuLesha&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub stats"
+    src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm"
+    alt="VS Code, Visual Studio, PyCharm"
   />
 </p>
 
+<h3 align="center">📊 GitHub-статистика</h3>
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=SladkyuLesha&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru"
+    alt="GitHub statistics"
+  />
+</p>
+
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SladkyuLesha&layout=compact&theme=bear&hide_border=true&locale=ru"
+    alt="Top languages"
+  />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
