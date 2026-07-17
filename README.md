@@ -1,4 +1,4 @@
-<h1 align="center">🐍 $SladkyuLesha$ · $Developer & Data Enthusiast$ 🐍</h1>
+<h1 align="center">🐍 $SladkyuLesha$ · $Developer$ & $Data$ $Enthusiast$ 🐍</h1>
 
 
 <h1 align="center">Привет, я Алексей 👋</h1>
